@@ -1,0 +1,5 @@
+__pycache__
+.vscode
+env
+pyuac.stderr.tmp.txt
+pyuac.stdout.tmp.txt
